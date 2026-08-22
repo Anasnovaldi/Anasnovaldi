@@ -2,9 +2,8 @@
 
 ---
 
-## Hello there !!
-*"An AI Engineer who has learned to embrace the power of Deep Learning."*
-Saya **Anas Novaldi**, mahasiswa Teknik Informatika yang sedang menempuh jalur **AI Engineer** — mendalami Machine Learning, Deep Learning, dan Generative AI.
+## Who Am I ??
+Saya **Anas Novaldi**, mahasiswa Teknik Informatika yang sedang menempuh jalur **AI Engineer** mendalami Machine Learning, Deep Learning, dan Generative AI. *Salam Kenal..*
 
 ## Tech Stack
 <p align="left">
