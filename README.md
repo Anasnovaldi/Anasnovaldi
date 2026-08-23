@@ -2,7 +2,7 @@
 
 ---
 
-## Who Am I ??
+## About Me
 Saya **Anas Novaldi**, mahasiswa Teknik Informatika yang sedang menempuh jalur **AI Engineer** mendalami Machine Learning, Deep Learning, dan Generative AI. *Salam Kenal..*
 
 ## Tech Stack
