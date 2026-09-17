@@ -3,33 +3,35 @@
 ---
 
 ## About Me
-Saya **Anas Novaldi**, mahasiswa Teknik Informatika yang sedang menempuh jalur **AI Engineer** mendalami Machine Learning, Deep Learning, dan Generative AI. *Salam Kenal..*
 
-## Tech Stack
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+Saya **Anas Novaldi**, mahasiswa Teknik Informatika yang sedang menempuh jalur **AI Engineer** dengan mendalami **Machine Learning, Deep Learning, dan Generative AI**. *Salam Kenal..*
+
+---
+
+## Languages & Libraries
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js" height="50" alt="Languages" />
 </p>
 
-## Github Statistic
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/matplotlib/matplotlib-original.svg" height="48" alt="Matplotlib" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" height="48" alt="scipy" />
+  <img src="https://skillicons.dev/icons?i=scikitlearn" height="50" alt="Scikit-learn" />
+</p>
 
-<table align="center">
-<tr>
-<td>
-<a href="https://github.com/Anasnovaldi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anasnovaldi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
-</td>
-<td>
-<a href="https://github.com/Anasnovaldi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anasnovaldi&layout=compact&langs_count=8&theme=dracula"/>
-</a>
-</td>
-</tr>
-</table>
+---
+
+## Tools & Software
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,mysql,git,github" height="50" alt="Tools" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" />
+</p>
+
+---
