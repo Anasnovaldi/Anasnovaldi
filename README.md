@@ -33,4 +33,5 @@ Saya **Anas Novaldi**, mahasiswa Teknik Informatika yang sedang menempuh jalur *
   <img src="https://skillicons.dev/icons?i=vscode,mysql,git,github" height="50" alt="Tools" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/googlecolab/googlecolab-original.svg" height="48" alt="Google Colab" />
 </p>
+
 ---
